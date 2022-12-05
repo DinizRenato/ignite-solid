@@ -27,3 +27,9 @@
 - [x] [GET] /users/:user_id
 - [x] [GET] /users
 
+### Documentação com SWAGGER
+- [x] [POST] /users
+- [x] [PATCH] /users/:user_id/admin
+- [x] [GET] /users/:user_id
+- [x] [GET] /users
+
